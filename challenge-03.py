@@ -17,6 +17,8 @@ REVISION DESCRIPTION:
 NOTES:
     http://www.pythonchallenge.com/pc/def/equality.html  
     Thus something like: ABCxDEF
+
+    https://regexr.com/
 '''
 import re
 
