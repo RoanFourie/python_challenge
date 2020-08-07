@@ -8,11 +8,6 @@ REVISION: 0
 REVISION DATE: 2020-06-12 (Week 24)
 REVISION AUTHOR: Roan Fourie
 REVISION DESCRIPTION:
-    One small letter, surrounded by EXACTLY three big bodyguards on each of its sides.
-
-    View source in page source.
-    
-    data was pasted into challenge-03.txt
 
 NOTES:
     view-source:http://www.pythonchallenge.com/pc/def/linkedlist.php
